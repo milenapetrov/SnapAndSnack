@@ -6,3 +6,5 @@ Feel free to change structure, add new files, delete files, suggest workflow ide
 For recipe dataset: train to classify 10-15 different classes (10-15 recipes). Multiclassification. There is not enough time to classify all recipes. 
 
 Images: Use pretrained model, object identification, YOLOs? 
+
+* TA: "try to apply all the models you have learned within the scope of your project. Additionally it shows us that you have exhausted your evaluations to find the best model for your problem."
